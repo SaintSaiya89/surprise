@@ -1,0 +1,42 @@
+body {
+    background-image: url("20547362_6276023.jpg");
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+header {
+    
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    color:#079097;
+}
+
+.content {
+    padding: 16rem;
+    text-align: center;
+}
+.content a{
+    color:#000000;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 2rem;
+    font-weight: 700;
+
+}
+.content a:hover{
+    color: #131c9e;
+}
+
+h2 {
+    font-size: 24px;
+}
+
